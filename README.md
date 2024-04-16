@@ -4,6 +4,7 @@ BSidesHBG is a cybersecurity conference organized by volunteers of the Greater H
 
 
 > :link: [BSidesHBG.com](https://www.bsideshbg.com)
+> ‼️ - Web hosting and site have changed and are no longer linked to github pages. I am not currently maintaining the site. 
 
 
 
@@ -11,7 +12,7 @@ BSidesHBG is a cybersecurity conference organized by volunteers of the Greater H
 
 - Web Dev:
 	Michael Scott
-	menuscreen.dev@gmail.com | @Michael__Scott2
+	michael.scott@menuscreen.dev | @Michael__Scott2
 	[menuscreen.dev](https://menuscreen.dev)
 
 - Web Design:
